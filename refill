@@ -23,7 +23,9 @@ https://github.com/s4msoe/testotes/raw/main/GRATISTIS.ts
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188896189032493229715252.m3u8?token=null
 
 #EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1531375267.jpg" ,♻️ Malang City Guide 91.1FM
-https://ameg.id/radio/audio.mp3
+https://ase11-0.playlist.ttvnw.net/v1/playlist/Cp4GTKKJpu6adIoM4RuMR4hDojUXCxx3c9kruXE6ViuedXZ5SN98SLNVgRLH1HmeYGxRcWMGU_-bQXe29Lce9kzCkOfzE2EWwYD_soWzFT9S_2Rdfjp4OPkxy-7xCWC3ZfMLNNcAIFGMOlP5ajGyU-0TKW4b1DMOOnIIfI4QDa6MESCNbyFIEdymyyEEDvlUwEIIv8TMnHFx29Y0qnM2jXNVQijImd_3FFdXRnv5GjSqEwKIz7-OXuV_6AxCqOHgOjglAX3bXVhOLCnzGPO7nZcyY3hvooCjsTyU1t_HXm-ev3mmsF0ox7USQma1KaCGGkHL66MeJ2EJ1_3-dMrSTvacGhp0EzxhZLYz1JfJZvN0ort3KctClYqoLjbRYrUwTixF7Hq-29QSEixIgvMX5kwR55fF_ojrze4oFxtjcPFKFvqmACEvfOk08Sc8AIjMLIoOjZckYRhIv2dIAeMsmL7S-1zPubDSQpT91LkQIMsaxq1mqSAfF-XqRS4AveNf6iB3A_2uK3N73B0-7FPJMPFOVqvhQ2rd6MP0S7Qj6No3BoELynOKrZfW0Sw5oGLFeP7pI7bCCG-gkIG0YSpd7nNY3dhcAAj6DYsavklJmqGf4gz4SRezCevcaKethFfsdofBRIGEFkbKyC0p7fAkSAWhnPayatrDEmLqKxZkgPNgAijzUyoK1zF6F7TffMUy9Lu9B3Xe_2KO-2DD2RQ3jO8a7r_BSvUM4BFDoGarHrrNdfsrhM5-xhhzG9kZhWLHFGOJYOQIp971rSPv7XaVpRfri4CyYxG0TieSpFYL0ynuHsYrLiZ-_3Xy6ncjOrSYfXHsr0nOTyVWRlDdoDl2mElA8KQ0ZZu-5PvQ9v0vCF1GwlqsMhcehEcLmANahfufXEzIQDkrc5Q1E8icvO7gbKPaO3Zo0pR3D3uKSINkwvJLMQvvEagjDv_JvHWK5IZGOArmH16aUqT9rXz66xP42e4Xl0FhcV6lEO7DMuVpysGpSlTm9zWTEYCVxO-842SSGwl8Hpr2m3eN3rCQg-Mf6hlZIhTJAvUIsJI0Upk4EnGCGgyxw8jyn9RbKY9yzxAgASoJdXMtd2VzdC0yMOQK.m3u8
+
+#https://ameg.id/radio/audio.mp3
 
 #EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://banner2.cleanpng.com/20180607/ryy/kisspng-mfm-radio-casablanca-88-7-radio-omroep-internet-ra-fatima-alsughra-5b192570162966.0051302115283746400908.jpg" ,♻️ MfM 1🔴1.3FM
 https://mfm.isowae.com:8443/studio.mp3
@@ -34,6 +36,10 @@ https://mfm.isowae.com:8443/studio.mp3
 =========================================================== 🇱 🇴 🇨 🇦 🇱 ================================================================================================
 
 #EXTINF:-1 group-logo="https://cdn.pixabay.com/photo/2023/04/22/04/40/live-streaming-7943006_1280.png" group-title="🇱 🇴 🇨 🇦 🇱"
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -390,6 +396,8 @@ https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8?c
 
 ############################  🇩‌‌🇪‌‌🇳‌‌🇸‌‌ ‌🇹‌‌🇻‌   #############################  
 
+
+#EXTINF:-1 group-title=" 🇩‌‌🇪‌‌🇳‌‌🇸‌‌ ‌🇹‌‌🇻‌ " group-logo="https://media.giphy.com/avatars/denstv/hYonBB2e1FHG.png"
 
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title=" 🇩‌‌🇪‌‌🇳‌‌🇸‌‌ ‌🇹‌‌🇻‌ ",RCTI
@@ -1290,12 +1298,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="🇲 🇴 🇻 🇮 🇪 🇸",Galaxy
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png" group-title="🇲 🇴 🇻 🇮 🇪 🇸",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="🇲 🇴 🇻 🇮 🇪 🇸",Galaxy Premium
+#EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png" group-title="🇲 🇴 🇻 🇮 🇪 🇸",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
@@ -1480,9 +1488,58 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title=" 🇭 🇧 🇴 ‌🇬‌‌🇷‌‌🇴‌‌🇺‌‌🇵‌ ",HBO (FMX)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title=" 🇭 🇧 🇴 ‌🇬‌‌🇷‌‌🇴‌‌🇺‌‌🇵‌ ",HBO Hits (FMX)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title=" 🇭 🇧 🇴 ‌🇬‌‌🇷‌‌🇴‌‌🇺‌‌🇵‌ ",HBO Family (FMX)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title=" 🇭 🇧 🇴 ‌🇬‌‌🇷‌‌🇴‌‌🇺‌‌🇵‌ ",HBO Signature (FMX)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title=" 🇭 🇧 🇴 ‌🇬‌‌🇷‌‌🇴‌‌🇺‌‌🇵‌ ",Cinemax (FMX)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+
+
+
 ================================================================== 🇵 🇷 🇪 🇲 🇮 🇺 🇲 ===============================================================================================================================
 
-#EXTINF:-1 group-title="🇵 🇷 🇪 🇲 🇮 🇺 🇲" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png"
+#EXTINF:-1 group-title="🇵 🇷 🇪 🇲 🇮 🇺 🇲" group-logo="https://www.pikpng.com/pngl/m/518-5185493_tvplay-premium-clipart.png"
 
 #EXTINF:-1 tvg-id="Asian Food Network" tvg-name="" group-title="🇵 🇷 🇪 🇲 🇮 🇺 🇲"  tvg-logo="https://i.ibb.co.com/XF1Mhg5/asian-food-network.png",ID | ASIAN FOOD NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1694,7 +1751,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 
 ===================================== 🇰 🇮 🇩 🇸 =================================================================================
 
-#EXTINF:-1 group-logo="https://github.com/iptv-pro/iptv-pro.github.io/blob/main/logo/MY-KIDS%20TV.png" group-title="🇰 🇮 🇩 🇸"
+#EXTINF:-1 group-logo="https://www.pikpng.com/pngl/m/65-657681_kids-church-victory-png-download-victory-kids-logo.png" group-title="🇰 🇮 🇩 🇸"
 
 
 
@@ -1761,7 +1818,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=l
 
 ============================================ 🇷 🇪 🇱 🇮 🇬 🇮 ================================================================================
 
-#EXTINF:-1 group-logo="https://github.com/iptv-pro/iptv-pro.github.io/blob/main/logo/ONE.png" group-title="🇷 🇪 🇱 🇮 🇬 🇮"
+#EXTINF:-1 group-logo="https://www.pikpng.com/pngl/m/563-5630175_tvnz-tv-one-tv-one-nz-logo-clipart.png" group-title="🇷 🇪 🇱 🇮 🇬 🇮"
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2067,26 +2124,33 @@ http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&userid=li
 
 
 ===========================================  ‌🇦‌ ‌🇫‌ ‌🇫‌  ================================================
+#EXTINF:-1 group-logo="https://www.pikpng.com/pngl/m/60-601184_soccer-ball-flag-3d-model-max-obj-mtl.png" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",PSJ TV_🇲🇨
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/60-601184_soccer-ball-flag-3d-model-max-obj-mtl.png" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~soccer•🇲🇨	
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/60-601184_soccer-ball-flag-3d-model-max-obj-mtl.png" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~soccer•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~Sport~1•🇲🇨	
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/60-601184_soccer-ball-flag-3d-model-max-obj-mtl.png" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~Sport~1•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~Sport~2•🇲🇨	
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/60-601184_soccer-ball-flag-3d-model-max-obj-mtl.png" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~Sport~2•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~Spotv•🇲🇨	
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/60-601184_soccer-ball-flag-3d-model-max-obj-mtl.png" group-title="‌🇦‌ ‌🇫‌ ‌🇫‌",ID~Spotv•🇲🇨	
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 
 
 ========================   🇮‌‌🇳‌‌🇩‌‌🇮‌‌🇭‌‌🇴‌‌🇲‌‌🇪  =======================================================================================‌
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Logo_indiHome.png" group-title="‌ 🇮‌‌🇳‌‌🇩‌‌🇮‌‌🇭‌‌🇴‌‌🇲‌‌🇪‌ "
+
+
 
 
 #EXTINF:-1 group-title="‌ 🇮‌‌🇳‌‌🇩‌‌🇮‌‌🇭‌‌🇴‌‌🇲‌‌🇪‌ "tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
@@ -2210,13 +2274,15 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
   
 
 
-#EXTM3U
-========================= 🇺 🇳 🇨 🇦 🇹 🇪 🇬 🇴 🇷 🇮 🇿 🇪 🇩 ===================================================
-  #group-title="🇺 🇳 🇨 🇦 🇹 🇪 🇬 🇴 🇷 🇮 🇿 🇪 🇩", 
+
   
   
   
 #EXTINF:-1 group-logo="https://www.pikpng.com/pngl/m/154-1545310_18-icon-png-18-icon-clipart.png" group-title="🇺 🇳 🇨 🇦 🇹 🇪 🇬 🇴 🇷 🇮 🇿 🇪 🇩"
+
+
+
+
 
 #EXTINF:-1 group-logo="https://www.pikpng.com/pngl/m/154-1545310_18-icon-png-18-icon-clipart.png" tvg-id="NitroCircus.us" tvg-logo="https://mms.businesswire.com/media/20160518005686/en/525432/5/3D_Nitro.jpg" group-title="🇺 🇳 🇨 🇦 🇹 🇪 🇬 🇴 🇷 🇮 🇿 🇪 🇩",Nitro Circus (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
@@ -2457,7 +2523,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NitroCircus.us",  group-title="🇺 🇳 🇨 🇦 🇹 🇪 🇬 🇴 🇷 🇮 🇿 🇪 🇩", Circus (720p)
-#EXTINF:-1,Sextreme http://45.181.122.201:8081/play/a049
+http://45.181.122.201:8081/play/a049
 
 
 
