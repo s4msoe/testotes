@@ -17,7 +17,18 @@
 #EXTM3U url-tvg="https://i.mjh.nz/Stirr/all.xml.gz"
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://weareblahs.github.io/epg/mytv.xml, https://weareblahs.github.io/epg/indonesia.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 
-
+#EXTM3U url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml.gz" tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=4
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
+#EXTM3U url-tvg="https://i.mjh.nz/au/Brisbane/epg.xml.gz" tvg-shift=0 m3uautoload=12
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz" tvg-shift=0 m3uautoload=13
 
 
 #EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png"  tvg-id="MTV LIVE - [Channel 148].id" tvg-logo="https://i.imgur.com/Q4zaCuM.png" ,⚠️ ᵖˡᵃʸˡⁱˢᵗ ⁱNⁱ ᵘⁿᵗᵘᵏ ᵖᵉᵐᵃᵏᵃⁱᵃⁿ ᵖʳⁱᵇᵃᵈⁱ ⚠️
@@ -26,13 +37,40 @@ https://github.com/s4msoe/testotes/raw/main/GRATISTIS.ts
 #EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png"  tvg-id="MTV LIVE - [Channel 148].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" ,♻️MAK🔴TAᵇᵃᵈⁱ ♻️
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/188896189032493229715252.m3u8?token=null
 
-#EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1531375267.jpg" ,♻️ Malang City Guide 91.1FM
-https://ase11-0.playlist.ttvnw.net/v1/playlist/Cp4GTKKJpu6adIoM4RuMR4hDojUXCxx3c9kruXE6ViuedXZ5SN98SLNVgRLH1HmeYGxRcWMGU_-bQXe29Lce9kzCkOfzE2EWwYD_soWzFT9S_2Rdfjp4OPkxy-7xCWC3ZfMLNNcAIFGMOlP5ajGyU-0TKW4b1DMOOnIIfI4QDa6MESCNbyFIEdymyyEEDvlUwEIIv8TMnHFx29Y0qnM2jXNVQijImd_3FFdXRnv5GjSqEwKIz7-OXuV_6AxCqOHgOjglAX3bXVhOLCnzGPO7nZcyY3hvooCjsTyU1t_HXm-ev3mmsF0ox7USQma1KaCGGkHL66MeJ2EJ1_3-dMrSTvacGhp0EzxhZLYz1JfJZvN0ort3KctClYqoLjbRYrUwTixF7Hq-29QSEixIgvMX5kwR55fF_ojrze4oFxtjcPFKFvqmACEvfOk08Sc8AIjMLIoOjZckYRhIv2dIAeMsmL7S-1zPubDSQpT91LkQIMsaxq1mqSAfF-XqRS4AveNf6iB3A_2uK3N73B0-7FPJMPFOVqvhQ2rd6MP0S7Qj6No3BoELynOKrZfW0Sw5oGLFeP7pI7bCCG-gkIG0YSpd7nNY3dhcAAj6DYsavklJmqGf4gz4SRezCevcaKethFfsdofBRIGEFkbKyC0p7fAkSAWhnPayatrDEmLqKxZkgPNgAijzUyoK1zF6F7TffMUy9Lu9B3Xe_2KO-2DD2RQ3jO8a7r_BSvUM4BFDoGarHrrNdfsrhM5-xhhzG9kZhWLHFGOJYOQIp971rSPv7XaVpRfri4CyYxG0TieSpFYL0ynuHsYrLiZ-_3Xy6ncjOrSYfXHsr0nOTyVWRlDdoDl2mElA8KQ0ZZu-5PvQ9v0vCF1GwlqsMhcehEcLmANahfufXEzIQDkrc5Q1E8icvO7gbKPaO3Zo0pR3D3uKSINkwvJLMQvvEagjDv_JvHWK5IZGOArmH16aUqT9rXz66xP42e4Xl0FhcV6lEO7DMuVpysGpSlTm9zWTEYCVxO-842SSGwl8Hpr2m3eN3rCQg-Mf6hlZIhTJAvUIsJI0Upk4EnGCGgyxw8jyn9RbKY9yzxAgASoJdXMtd2VzdC0yMOQK.m3u8
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36  VLC/3.0.9 LibVLC/3.0.9 
+#EXTVLCOPT:http-referrer=https://player.twitch.tv
+#EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1531375267.jpg" ,♻️ Malang City Guide 91 1FM ♻️
+https://ase11-0.playlist.ttvnw.net/v1/playlist/CoMGuw-eppbxSX5wXrXp2u-64YYZZ3MTJ-ob1e0p9xMW1zUeZEL0A4ML78bLdpA-4MTBr4C8Wp7vJsIvFPxmiCqAJUpEiKZRPH_i74zD0GDjqv8exfZ-DxuG5gQpjC02wa3zTqfe74CNnlYhpDdE9Paecs3ZWhzVsQSDApUBPGeWeEIvbEc4oY-MaI8tT4tdz_jsw7vptQTH4aipLmtH3agPq98ACUO-ZJ38ICNXdPzpfpMgTFyQSyp0U3jOYgjlt__YlUTMRch8WrXk27nsCq6jVbNb3eXqyKkks-giK9bGopTpIAYg9tnxRQCBhFdKAxY1sPHD6n3Zm_NhSuw9HXOOk3RBpbzS-T40WRiDCWA64ArfmPAIMyoqKKGvR0dkBl-jV7gBau55zGC_FXLXn9aqO1JT2gRmkWVA-7xjfv4J7IfV-FMutXCHr1w1gw9AmlrzLJUZF3g2Rt4fZPUZYbx1-PWQuOtn2eEF7I57mjekKMS_BhYzH21hDOPT7qHOyxVGJRUQfUohVZ6NgXtNZ8YfR0YyFM60ASrYbhyBpwVRdfMIxNUbdDgachy6rL6vgPT7RLgXo7_-mU4JjEpS3R_wiPpzhTSSJtC211uR1w7elf7km02JDLOytjHcfA72ZWRqIg0KGGFQ-VJ0ylDd_JFfKtOITzpG25MlJ_o0L5m4np8N_jSKHDooOPOIbG1n_bPJ_Tj98Jr5zrmH0O8K23eU7dS3s0TCvTVOZsXq-xoduOE2Et-D9P27DQvRLrydVpwN07AfBnpCUJJryxxYCmJnPd7h3pEii-tDf7ZRSnRpwk1tcaE6EQVC6cQkGGz2qlHamWFkwyxPIh52xKvkEk7w_oKlEvye-ZaBCitwut8Z8mIvIXDag_pnM7mqPbAnEStMsbnDEyguqxoK4GuQjczENMs0fuzdF9RPoiJJGqJLANnPijkzIrwdVfIxCu1AYgYHEbypwmS7T3ZfSBYQUNi4bnmEjQFi4_-OgXCXF8gXb2BcOzUdJRlPgfVeODinkHFDZZMqGgxEsdOLZGZqbb-azl0gASoJdXMtd2VzdC0yMPcK.m3u8
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.twitch.tv
+#EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1531375267.jpg" ,♻️ 1 Malang City Guide 911FM
+https://usher.ttvnw.net/api/channel/hls/cityguidevisualradio.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiZWE2MjkwNzUtNWQ0Yy00ZTE2LWE0NGUtMDYxZjViMGJkMTdlIn0%3D&allow_source=true&browser_family=chrome&browser_version=131.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=4126503&parent_domains=twitchplayer&platform=web&play_session_id=77e189d43ee1b7e2bc99117ad5abf0cd&player_backend=mediaplayer&player_version=1.34.0-rc.2.2&playlist_include_framerate=true&reassignments_supported=true&sig=391e9942949b30b550a57a7386d7e94d207a9da3&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cityguidevisualradio%22%2C%22channel_id%22%3A1000515908%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22f88feff6ef71d67a%22%2C%22expires%22%3A1732431298%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22125.163.127.74%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
+
+
+
 
 #https://ameg.id/radio/audio.mp3
 
 #EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://banner2.cleanpng.com/20180607/ryy/kisspng-mfm-radio-casablanca-88-7-radio-omroep-internet-ra-fatima-alsughra-5b192570162966.0051302115283746400908.jpg" ,♻️ MfM 1🔴1.3FM
 https://mfm.isowae.com:8443/studio.mp3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36  VLC/3.0.9 LibVLC/3.0.9 
+#EXTVLCOPT:http-referrer=https://cdn.siar.us/
+#EXTINF:0 group-title="🇵 🇦 🔴 🇵" group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" tvg-id="PA OP" tvg-logo="https://xspaceradio.com/assets/img/radio/logo_ss.png" ,♻️ Suara Surabaya 100FM ♻️
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+
+
+
+
+
 
 
 
@@ -112,25 +150,7 @@ https://cdn14jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8?c
 #http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
 http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="🇱 🇴 🇨 🇦 🇱",Moji (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="🇱 🇴 🇨 🇦 🇱",Moji (@)
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
-#http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
-
-#EXTINF:-1  group-title="🇱 🇴 🇨 🇦 🇱" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -282,7 +302,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 
-
+#EXTINF:-1 group-title="🇱 🇴 🇨 🇦 🇱" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png", J Tv
+https://github.com/AKPLAYLISTTV/iptv/blob/main/indo/jtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
@@ -402,6 +423,26 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_atv_small.png" group-title="🇱 🇴 🇨 🇦 🇱",ATV (INDI)
 https://cdn14jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8?c
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+#EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="🇱 🇴 🇨 🇦 🇱",Hanacaraka TV
+https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="🇱 🇴 🇨 🇦 🇱", MOJI TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+
+#EXTINF:-1 group-title="🇱 🇴 🇨 🇦 🇱" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI
+https://github.com/mimipipi22/lalajo/blob/main/Streaming/indonesia/moji.m3u8
+
+
+
+
 
 
 
@@ -4239,7 +4280,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
 
-
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg" group-title="🇱 🇴 🇨 🇦 🇱",Jowo4
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
 
 
 
