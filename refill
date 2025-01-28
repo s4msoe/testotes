@@ -1995,24 +1995,35 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1 group-logo="https://cdn.pixabay.com/photo/2012/04/18/00/24/sign-36262_1280.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HjZ4X9X.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Animal Planet 
-https://kusnadipepenk.github.io/ntn/animal.m3u8
- 
-#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://i.imgur.com/bNXJWsf.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Digione
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",BBC Earth
+https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1rB2wDv.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Russia Today Documentary English
-https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",History HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://i.imgur.com/9ETu8DD.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", INSIGHT
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",HGTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTINF:-1 tvg-id="inwonder.au" tvg-name="Inwonder" tvg-logo="https://i.imgur.com/JfRjGcP.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.imgur.com/U139AVK.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",HGTV
-https://kusnadipepenk.github.io/ntn/hgtv.m3u8
-
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Discovery Channel 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Discovery Asia
@@ -2026,170 +2037,69 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20211216005733/en/1184187/23/Curiosity_Combo_Stack_Color_Pos.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Curiosity Channel
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Curiosity.m3u8
 
-#EXTINF:-1  tvg-id="discoveryasia.sg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Discovery Channel 
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-#EXTINF:-1 tvg-id="Discoverychannelindonesia.id" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-logo="https://i.imgur.com/WC3JYhx.png",Discovery Channel
-https://cdngb196.indihometv.com/joss/133/disco/chunklist_w1745684978_b2544100_sleng.m3u8?encp=&uid=&expp=
-
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
-
-#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE 🇺🇸
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-
-#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="Discovery Turbo"  tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png",DISCOVERY TURBO 🇺🇸
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-
-#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="[London SD] DMAX"  tvg-logo="https://i.ibb.co/8DfxR99/dmax.png", DMAX 🇩🇪
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
-
-
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="67045" tvg-logo="https://static.mncnow.id/images/channel/6feedc54/8409.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", Outdoor Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="" tvg-name="", Outdoor Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="67046" tvg-logo="https://static.mncnow.id/images/channel/f7543c9d/9c2d.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", Love Nature
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="2925" tvg-logo="https://static.mncnow.id/images/channel/fac095a3/0f0e.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", NHK World Japan
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="2737" tvg-logo="https://static.mncnow.id/images/channel/613c65c1/452b.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", BBC Earth
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="89" tvg-logo="https://static.mncnow.id/images/channel/b23821b1/38bc.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", History
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/Historynew/sa_dash_vmx/Historynew.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="History.de" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",History (9.4s)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="History.pl" tvg-logo="https://images.indihometv.com/logo_history_ver3.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",HISTORY
+#EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Love Nature
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="51" tvg-logo="https://static.mncnow.id/images/channel/7a1e2ac8/2e68.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪", Crime Investigation
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e3cb40f0/5601_r32.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",History HD
-https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Global Trekker
+https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",BBC Earth
-https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-
-
-#EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",HGTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Animal Planet
-https://okegas.transvision.workers.dev/dassdvr/194/animalplanet/manifest.mpd
-
-#EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Animal Planet
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3298
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://absatellite.com/wp-content/uploads/outdoor_channel_hd.png",Outdoor Channel
-https://melon-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Love Nature
-https://melon-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e23a351e/790d_r32.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Global Trekker
-https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/4b3d8210/eb4c_r32.jpg",Crime Investigation
-https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#KODIPROP:inputstream.adaptive.license_key=87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
 #EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
-https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Dens Learning & Knowledge
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png",Lingua Channel
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Lingua.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.squarespace-cdn.com/content/v1/63bb907d77fa9473da10d7b1/bc98d3f5-1ca4-4b1d-a685-ab17b610b011/92489679-3072-4110-b377-2ab4969b55ac-removebg-preview.png",Techstorm
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-TechStorm.m3u8
+
+
+
+#EXTINF:-1 tvg-name="[ID] NatGeo Wild id 8k indo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",[ID] NatGeo Wild id 8k indo
+http://iptv12k.com:35461/654321/123456/2067
+#EXTINF:-1 tvg-id="NatGeo.id" tvg-name="[ID] NatGeo id 8k   National Geographic" tvg-logo="https://logowik.com/content/uploads/images/300_national_geographic.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",[ID] NatGeo id 8k   National Geographic
+http://iptv12k.com:35461/654321/123456/2066
+
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6961737.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",National Geographic
 http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",National Geographic Wild
 http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
-
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",DMAX TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
-
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Smithsonian Channel (B)
-http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
 
 
 
@@ -3512,8 +3422,49 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 
-===========================================================================================================================================
-===========================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #EXTM3U billed-msg=" 🔴 🔴 🔴 🔴   🇵‌‌🇱‌‌🇦‌‌🇾‌‌🇱‌‌🇮‌‌🇸‌‌🇹‌   ‌🇮‌‌🇳‌‌🇮‌    ‌🇬‌‌🇷‌‌🇦‌‌🇹‌‌🇮‌‌🇸‌   ‌🇹‌‌🇮‌‌🇩‌‌🇦‌‌🇰‌    ‌🇩‌‌🇮‌‌🇵‌‌🇪‌‌🇷‌‌🇯‌‌🇺‌‌🇦‌‌🇱‌‌🇧‌‌🇪‌‌🇱‌‌🇮‌‌🇰‌‌🇦‌‌🇳‌  🔴 🔴 🔴 🔴 "
+
+
+
 
 
 
@@ -3527,7 +3478,7 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077782103576869531500342.m3u8?token=null
 
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/pasar GADANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" ,  pasar GADANG
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/292570058740218968707392.m3u8?token=null
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/256581523014055687826746.m3u8?token=null
 
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/GADANG Jl. Kol. Sugiono Arah Selatan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" , GADANG Jl. Kol. Sugiono Arah Selatan
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530731075384566382488335.m3u8?token=null
@@ -3761,41 +3712,3 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/636589114401733445781917.m
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
