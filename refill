@@ -3469,16 +3469,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 
-#EXTINF:-1 group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " 
+#EXTINF:-1 group-logo="https://www.pikpng.com/pngl/b/141-1417435_beautiful-malang-png-clipart.png" group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 "
 
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/KACUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" , KACUK
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/215178419587511478247119.m3u8?token=null
 
+#EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/KACUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" , KACUK Jl. Satsuit Tubun Arah Timur
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/336686011348989661063244.m3u8?token=null
+
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/KACUK2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" , KACUK2
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/077782103576869531500342.m3u8?token=null
 
-#EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/pasar GADANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" ,  pasar GADANG
+#EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/GADANG Jl. Raya Gadang Arah Selatan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" , GADANG Jl. Raya GADANG Arah Selatan
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/772701504430563728087236.m3u8?token=null
+
+#EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/GADANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" ,  GADANG Jl. Rajasa Arah Barat
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/256581523014055687826746.m3u8?token=null
+
+#EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/pasar GADANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" ,  GADANG  Jl. Kyai Parseh Jaya Arah Utara
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/791264717746791807536169.m3u8?token=null
 
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/GADANG Jl. Kol. Sugiono Arah Selatan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Kota_Malang_color.png" , GADANG Jl. Kol. Sugiono Arah Selatan
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/530731075384566382488335.m3u8?token=null
@@ -3702,10 +3711,18 @@ http://stream.cctv.malangkota.go.id/WebRTCApp/streams/490076087057536757601215.m
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/446907421280943044413749.m3u8?token=null    
 
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/Jl. Gajayana Arah Utara (Sardo)" tvg-logo="" ,  Jl. Gajayana Arah Utara (Sardo)
-http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8?token=null      
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/455597782591873967365987.m3u8?token=null
+
+#EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/ Jl. Gajayana Arah Selatan (Sardo))" tvg-logo="" ,   Jl. Gajayana Arah Selatan (Sardo)      
+http://stream.cctv.malangkota.go.id/WebRTCApp/streams/385150101635081489243344.m3u8?token=null
 
 #EXTINF: group-title=" 🇲 🇦 🇰 🇴 🇹 🇦 " tvg-id="makota/SUMBERSARI" tvg-logo="" ,  SUMBERSARI
 http://stream.cctv.malangkota.go.id/WebRTCApp/streams/636589114401733445781917.m3u8?token=null
+
+
+
+
+
 
 
 
